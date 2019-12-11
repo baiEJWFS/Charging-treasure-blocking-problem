@@ -22,3 +22,6 @@ python train.py --sixray_root data_root --imagesetfile data_set_root
 ### mAP结果 ###
 
 ![mAP](/img/result.png)
+### 过程曲线 ###
+
+![mAP](/img/loss.png)
