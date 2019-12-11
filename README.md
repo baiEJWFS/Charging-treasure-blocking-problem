@@ -19,6 +19,6 @@ python eval_5epoch_for.py --trained_model you_own_model_root
 cd CoverWithCharger
 python train.py --sixray_root data_root --imagesetfile data_set_root
 ```
-### 结果 ###
+### mAP结果 ###
 
-+ ![mAP](_v_images/20191211151141278_22710.png =900x)
+![mAP](/img/result.jpg=900x)
