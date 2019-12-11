@@ -21,4 +21,4 @@ python train.py --sixray_root data_root --imagesetfile data_set_root
 ```
 ### mAP结果 ###
 
-![mAP](/img/result.jpg=900x)
+![mAP](/img/result.jpg)
