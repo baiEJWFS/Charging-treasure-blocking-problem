@@ -8,7 +8,7 @@
 + **PyTorch 1.1**
 + **GPU**
 ### 使用 ###
-+ 模型文件：CoverWithCharger/weigths
++ 模型文件：Release版本里面 或者 CoverWithCharger/weigths
 ######  测试:
 ```
 cd CoverWithCharger
